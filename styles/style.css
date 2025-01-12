@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-primary{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+body{
+    margin: 0 auto;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 130px;
+}
+.nav-title{
+     font-weight: 800;
+     font-size: 30px;
+}
+.nav-button-container{
+     margin-top: 24px;
+    margin-bottom:24px;
+    color: #006A50;
+    border-color: #006A50;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-weight: 600;
+}
+.hero{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: 44px 160px 0px;
+}
+.hero-image{
+    margin: 80px 65px;
+}
+.hero-container{
+    margin: 110px 65px;
+
+}
+.banner-title{
+    color:#0E0E0E;
+    opacity: 50%;
+    margin-bottom: 16px;
+    font-size: 24px;
+}
+.hero-description{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 16px;  
+}
+.Explore{ 
+    padding:17px 35px;
+} 
+.footer{
+    max-width: 1500px;
+    padding: 70px 500px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+.footer-title{
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+.footer-img-container a{
+    margin-right:23px;
+    width: 24px;
+    height: 24px;
+}
