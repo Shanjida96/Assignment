@@ -177,3 +177,11 @@ main{
 .title{
     margin-bottom: 10px;
 }
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+th{
+  border: 1px solid #C6E4D6;
+  background-color: #C6E4D6;
+}
