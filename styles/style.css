@@ -205,7 +205,14 @@ td{
     display: flex;
 
 }
-.Donate-h{
-    justify-content: flex;
-    align-items: center;
+.money{
+    display: flex;
+
+}
+.money-p{
+    width: 240px;
+    height: 120px;
+}
+money-p:hover{
+    background-color: #C6E4D6;
 }
