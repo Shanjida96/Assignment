@@ -186,6 +186,7 @@ main{
 th{
     background-color: #C6E4D6;
     justify-content: space-around;
+    text-align: start;
 }
 th,td{
   border: 1px solid #C6E4D6;
